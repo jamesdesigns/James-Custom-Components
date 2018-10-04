@@ -118,6 +118,7 @@ data () {
   margin-top: 60px;
   margin-left:5%;
   margin-right:5%;
+  border: 1px solid #ccc;
 }
 
 ul { 
@@ -144,6 +145,10 @@ p {
 .details {
   float:right;
   padding-right:35%;
+}
+
+.fullcontainer {
+  border: 1px solid #ccc;
 }
 
 

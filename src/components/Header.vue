@@ -4,6 +4,7 @@
     <header>
         <h1 class="subheading font-weight-medium blue--text">Server Status</h1>
     </header>
+    <hr>
     </div>
   </div>  
 </template>
@@ -12,5 +13,10 @@
 h1 {
     text-align: left;
     border: none;
+    padding: 15px 0 10px 0;
+    margin-left: 6%;
+}
+hr {
+    color: #ccc;
 }
 </style>
